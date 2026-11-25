@@ -1,0 +1,21 @@
+{
+  "name": "trendoom-studio",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "TRENDOOM Studio — Cinematic OTT, Music, Live & AI Creator Intelligence Engine for Viralytics",
+  "scripts": {
+    "dev": "vite --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "lucide-react": "^0.460.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
